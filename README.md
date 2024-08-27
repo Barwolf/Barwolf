@@ -17,6 +17,6 @@ Welcome to my GitHub! I'm Jeremiah Lillion, a computer science student at UC Irv
   - **Ann Ruff Memorial Scholarship** (CCCC)
 
  ## Let's Connect 💬
-- 📧 Email: Jeremiahlillion@gmail.com
+- 📧 Email: Jeremiahlillion@gmail.com \
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-lillion-14362a270/)
-- 🌐 [GitHub](https://github.com/Barwolf)
+- [![GitHub](https://img.shields.io/badge/GitHub-YourUsername-here?style=for-the-badge&logo=github)](https://github.com/Barwolf)
