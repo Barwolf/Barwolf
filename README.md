@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm Jeremiah Lillion, a computer science student at UC Irv
   - **Presidents Scholarship** (CCCC)
   - **Ann Ruff Memorial Scholarship** (CCCC)
  
-## Tech Stack
+## Current Tech Stack 💻
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
