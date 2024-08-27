@@ -9,7 +9,6 @@ Welcome to my GitHub! I'm Jeremiah Lillion, a computer science student at UC Irv
 
 ## Achievements 🏆 
 - 👨‍🚀 **NASA L'SPACE NPWEE Spring 2024**: Winning team member in the national competition.
-- 🧑‍🎓 **Academic Degrees**: A.S. in Mathematics from Cerro Coso Community College.
 - 🐍 **100 Days of Code**: 81 days completed in Python as part of the Udemy challenge.
 - 🎖️ **Scholarships**:
   - **Regent Scholarship** (UCI)
