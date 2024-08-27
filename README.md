@@ -1,15 +1,22 @@
 # Hello World! 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-lillion-14362a270/)
-
+Welcome to my GitHub! I'm Jeremiah Lillion, a computer science student at UC Irvine.
 
 ## About me 🚀
-I am a third-year computer science student at **UC Irvine** with an Associate of Science in Mathematics and three (3) other A.A. degrees from Cerro Coso Community College. My journey includes participating in the **NASA Community College Aerospace Scholars (NCAS)** program and being part of the **winning** team in the Spring 2024 **NASA L'SPACE NPWEE** national competition. I am focused on enhancing my Python programming and Linear algebra skills, aiming to apply my knowledge to create innovative solutions that benefit society.
-
-### 🔭 I’m currently working on a mobile game project
-### 🌱 I’m currently learning Python to explore ML
+- 🎓 **Education**: Third-year computer science student at UC Irvine.
+- 📜 **Degrees**: Associate of Science in Mathematics and three other A.A. degrees from Cerro Coso Community College.
+- 🧠 **Skills**: Focused on Python programming, linear algebra, and exploring machine learning.
+- 🌱 **Current Learning**: Deepening my understanding of Python for machine learning and working on a mobile game project.
 
 ## Achievements 🏆 
-- 👨‍🚀 Spring 2024 NASA L'SPACE NPWEE national competition (**Winning Team**)
-- 🧑‍🎓 A.S. in Mathematics (Cerro Coso Community College)
-- 🐍 Udemy: 100 days of code challenge Python (81 days done)
-- 📜 Regent Scholarship (UCI), Presidents Scholarship (CCCC), Ann Ruff Memorial Scholarship (CCCC)
+- 👨‍🚀 **NASA L'SPACE NPWEE Spring 2024**: Winning team member in the national competition.
+- 🧑‍🎓 **Academic Degrees**: A.S. in Mathematics from Cerro Coso Community College.
+- 🐍 **100 Days of Code**: 81 days completed in Python as part of the Udemy challenge.
+- 🎖️ **Scholarships**:
+  - **Regent Scholarship** (UCI)
+  - **Presidents Scholarship** (CCCC)
+  - **Ann Ruff Memorial Scholarship** (CCCC)
+
+ ## Let's Connect 💬
+- 📧 Email: Jeremiahlillion@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-lillion-14362a270/)
+- 🌐 [GitHub](https://github.com/Barwolf)
