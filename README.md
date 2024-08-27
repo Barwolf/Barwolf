@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm Jeremiah Lillion, a computer science student at UC Irv
 - 🎓 **Education**: Third-year computer science student at UC Irvine.
 - 📜 **Degrees**: Associate of Science in Mathematics and three other A.A. degrees from Cerro Coso Community College.
 - 🧠 **Skills**: Focused on Python programming, linear algebra, and exploring machine learning.
-- 🌱 **Current Learning**: Deepening my understanding of Python for machine learning and working on a mobile game project.
+- 🌱 **Current Learning**: Deepening my understanding of Python for machine learning and working on a mobile game project with Python Kivy.
 
 ## Achievements 🏆 
 - 👨‍🚀 **NASA L'SPACE NPWEE Spring 2024**: Winning team member in the national competition.
