@@ -12,6 +12,7 @@ Welcome to my GitHub! I'm Jeremiah Lillion, a computer science student at UC Irv
 - 🐍 **100 Days of Code**: 81 days completed in Python as part of the Udemy challenge.
 - 🎖️ **Scholarships**:
   - **Regent Scholarship** (UCI)
+  - **UCIAA Book Scholarship** (UCI)
   - **Presidents Scholarship** (CCCC)
   - **Ann Ruff Memorial Scholarship** (CCCC)
  
