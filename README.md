@@ -31,10 +31,6 @@ Welcome to my GitHub! I'm Jeremiah Lillion, a computer science student at UC Irv
 ### Other Tools
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
-## GitHub Stats 📊
-![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barwolf&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barwolf&layout=compact&theme=tokyonight)
-
 ## Check out my projects 💡
 You can explore my work in the repositories pinned below ⬇️
 
