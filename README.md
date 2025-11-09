@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm Jeremiah Lillion, a computer science student at UC Irv
 - 📜 **Degrees**: Associate of Science in Mathematics and three other A.A. degrees from Cerro Coso Community College.
 - 🌱 **Current Learning**: Intelligent Systems specialization @ UCI
 - ⭐ **Honors**: Member of the Campuswide Honors Collegium (CHC) at UCI
+- 🧠 **Leadership**: Vice President of the **MedTech Club** at UC Irvine
 
 ## Achievements 🏆 
 - 👨‍🚀 **NASA L'SPACE NPWEE Spring 2024**: Winning team member in the national competition.
