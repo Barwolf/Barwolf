@@ -30,9 +30,6 @@ I'm **Jeremiah Lillion**, a Computer Science student at **UC Irvine** with a foc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-## Check out my projects 💡
-You can explore my work in the repositories pinned below, including **FitCheck** (IoT smart wardrobe) and **ResGit** (dynamic resume builder). ⬇️
-
 ## Let's Connect 💬
 [![Email](https://img.shields.io/badge/Email-jeremiahlillion%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremiahlillion@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-lillion/)
